@@ -6,6 +6,7 @@ Un editor de escritorio para experimentar con JavaScript y TypeScript. Construid
 ## Instalar
 Ejecutar
 ```
+npm run build
 npx --yes @electron/packager . "Self Code" \
   --platform=darwin \
   --out=release \
